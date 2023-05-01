@@ -4,5 +4,5 @@ https://henriquedouradoo.github.io/amavel.github.io/
 
 Projeto Iniciante feito com finalidade acadêmica, uma paródia da marvel.
 
-![image](https://user-images.githubusercontent.com/125815196/235527459-ad2edcde-97a6-4ef5-9b2b-57dee325b67c.png)
-https://icons8.com.br/icon/9nmz9TYzN8iO/html-5
+![image](https://user-images.githubusercontent.com/125815196/235528011-0ff6c62b-18e0-45fa-9efc-abc73760306a.png)
+![image](https://user-images.githubusercontent.com/125815196/235528081-d03b06a9-e0e1-48ee-9f21-0f5db2487d2c.png)

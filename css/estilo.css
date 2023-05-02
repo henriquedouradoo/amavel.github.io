@@ -342,9 +342,40 @@ footer {
 }
 
 @media(max-width: 450px) {
-   
-  
 
+    .logo {
+        margin-left: -100%;
+    }
+
+    .navegação a{
+        font-size: 10px;
+        margin-left: -400%;
+    }
+
+   .section__text {
+    width: 100%;
+
+   }
+  .section__text h1{
+    width: 100%;
+    font-size: 60px;
+    margin-left: 6%;
+    margin-top: -0%;
+  }
+
+  .section__text p{
+    font-size: 29px;
+    margin-top: 50%;
+}
+
+   
+    .form-sub button {
+        width: 200px;
+    }
+  
+    .footer-col{
+        width: 200px;
+    }
 }
     
 
